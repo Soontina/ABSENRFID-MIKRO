@@ -7,4 +7,4 @@ authors = ["lencx <cxin1314@gmail.com>"]
 homepage = "https://github.com/lencx/nofwl"
 repository = "https://github.com/lencx/nofwl"
 keywords = ["desktop", "plugins", "tauri"]
-license = "GPL-3.0
+license = "GPL-3.0"
