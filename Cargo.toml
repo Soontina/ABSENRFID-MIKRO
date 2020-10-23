@@ -8,3 +8,5 @@ homepage = "https://github.com/lencx/nofwl"
 repository = "https://github.com/lencx/nofwl"
 keywords = ["desktop", "plugins", "tauri"]
 license = "GPL-3.0"
+
+# 
