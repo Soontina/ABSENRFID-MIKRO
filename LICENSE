@@ -434,3 +434,6 @@ reinstated, you do not qualify to receive new licenses for the same
 material under section 10.
 
   9. Acceptance Not Required for Having Copies.
+
+  You are not required to accept this License in order to receive or
+run a copy of the Program.  Ancillary propagation of a covered work
