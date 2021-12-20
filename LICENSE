@@ -588,3 +588,5 @@ author or copyright holder as a result of your choosing to follow a
 later version.
 
   15. Disclaimer of Warranty.
+
+  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
