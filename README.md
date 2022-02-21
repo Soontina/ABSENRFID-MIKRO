@@ -1,1 +1,1 @@
-<p align="ce
+<p align="cente
