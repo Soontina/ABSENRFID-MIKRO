@@ -1,2 +1,2 @@
 <p align="center">
-  <img wid
+  <img width
