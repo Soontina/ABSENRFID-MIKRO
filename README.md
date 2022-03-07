@@ -1,2 +1,2 @@
 <p align="center">
-  <img width="
+  <img width="180
