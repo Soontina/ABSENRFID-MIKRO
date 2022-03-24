@@ -1,2 +1,2 @@
 <p align="center">
-  <img width="180" src="./assets/nofwl.p
+  <img width="180" src="./assets/nofwl.png
