@@ -1,2 +1,2 @@
 <p align="center">
-  <img width="180" src="./assets/nofwl.png" alt="Cha
+  <img width="180" src="./assets/nofwl.png" alt="Chat
