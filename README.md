@@ -4,4 +4,4 @@
   <p align="center">NoFWL Desktop Application (Mac, Windows and Linux)</p>
 </p>
 
-![visitor](https://vi
+![visitor](https://visi
