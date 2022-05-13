@@ -4,4 +4,4 @@
   <p align="center">NoFWL Desktop Application (Mac, Windows and Linux)</p>
 </p>
 
-![visitor](https://visitor-badge.glitch.me/b
+![visitor](https://visitor-badge.glitch.me/badg
