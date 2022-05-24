@@ -5,4 +5,4 @@
 </p>
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=lencx.nofwl)
-[![lencx](https://img.shields.io/bad
+[![lencx](https://img.shields.io/badge
