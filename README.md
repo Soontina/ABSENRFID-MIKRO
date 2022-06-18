@@ -5,4 +5,4 @@
 </p>
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=lencx.nofwl)
-[![lencx](https://img.shields.io/badge/follow-lencx__-blue?style=flat&logo=Twitter)](https://twitter.com/l
+[![lencx](https://img.shields.io/badge/follow-lencx__-blue?style=flat&logo=Twitter)](https://twitter.com/le
