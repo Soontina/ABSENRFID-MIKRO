@@ -6,3 +6,5 @@ link: https://github.com/lencx/nofwl
 plugins:
   - name: chatgpt
     version: 0.1.0
+  - name: bing
+    version: 0.1.0
